@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from "./img.png";
+import image from './img.png'
 
 
 const App = () => {
@@ -12,7 +12,7 @@ const App = () => {
             height: '100vh',
             fontFamily: 'roboto'
         }}>
-            <img src={logo} alt="Logo" width="100px" height="100px" />
+            <img src={image} alt="Logo" width="100px" height="100px" />
             <h1 style={{
                 color: 'Green',
                 margin: 0
