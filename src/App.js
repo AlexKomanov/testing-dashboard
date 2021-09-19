@@ -1,5 +1,5 @@
 import React from 'react';
-import image from './img.png'
+import image from './seatgeek-logo-vector.svg'
 
 
 const App = () => {
